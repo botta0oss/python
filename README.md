@@ -1,2 +1,3 @@
 # python
-various projects, script in python
+just random projects, scripts and nonsense code in python
+

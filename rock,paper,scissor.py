@@ -1,8 +1,10 @@
 import random
 
-# simple Rock Paper Scissor game 
-# (coded along with "Tech with Tim - 5 Mini Python Projects - For Beginners" https://www.youtube.com/watch?v=DLn3jOsNRVE)
-# then added by myself some variations like scoreboard and exit messages 
+''' 
+simple Rock Paper Scissor game 
+(coded along with "Tech with Tim - 5 Mini Python Projects - For Beginners" https://www.youtube.com/watch?v=DLn3jOsNRVE)
+then added by myself some variations like scoreboard and exit messages 
+'''
 
 
 
@@ -67,7 +69,7 @@ while True:
         computer_wins +=1
 
 
-# diffrent message case when exiting the game
+# diffrent message cases when exiting the game (with a little bit of spice...)
 
 if user_wins == 0 and computer_wins == 0:
     print("scared of loosing...")

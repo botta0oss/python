@@ -75,7 +75,7 @@ if user_wins == 0 and computer_wins == 0:
     print("scared of loosing...")
 
 elif user_wins > computer_wins and computer_wins != 0:
-    print("you won, that's what u are supposed to do don't you dare exulting ")
+    print("you won, that's what u are supposed to do don't you dare exult ")
 
 elif user_wins == computer_wins and user_wins != 0:
     print("it's a draw, at least you don't suck")
